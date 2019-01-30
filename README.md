@@ -1,5 +1,5 @@
 # Exercise Scraper
-All of the unanswered [CS 3110](www.cs3110.org) exercise files are included in this repo, so all you have to do is clone it! If you want to use the scraper for other purposes, please follow the guidelines below:
+All of the unanswered [CS 3110](http://www.cs3110.org) exercise files are included in this repo, so all you have to do is clone it! If you want to use the scraper for other purposes, please follow the guidelines below:
 
 ## Installation
 
